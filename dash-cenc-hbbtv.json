@@ -117,32 +117,32 @@
   
   "packages": [
            {
-               "drm": [ "marlin", "playready" ],
+               "drm": [ "widevine", "playready" ],
 			   "package_type": "dash",
                "renditions": [ "av0" ]
            },
 		   {
-               "drm": [ "marlin", "playready" ],
+               "drm": [ "widevine", "playready" ],
 			   "package_type": "dash",
                "renditions": [ "av1" ]
            },
 		   {
-               "drm": [ "marlin", "playready" ],
+               "drm": [ "widevine", "playready" ],
 			   "package_type": "dash",
                "renditions": [ "av2" ]
            },
 		   {
-               "drm": [ "marlin", "playready" ],
+               "drm": [ "widevine", "playready" ],
 			   "package_type": "dash",
                "renditions": [ "av3" ]
            },
 		   {
-               "drm": [ "marlin", "playready" ],
+               "drm": [ "widevine", "playready" ],
 			   "package_type": "dash",
                "renditions": [ "av4" ]
            },
 		   {
-               "drm": [ "marlin", "playready" ],
+               "drm": [ "widevine", "playready" ],
 			   "package_type": "dash",
                "renditions": [ "av5" ]
            }
