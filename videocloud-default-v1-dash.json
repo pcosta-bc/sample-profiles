@@ -25,8 +25,8 @@
       "width": 480,
       "height": 270,
       "h264_profile": "baseline",
-      "streaming_delivery_profile": "live"
-
+      "streaming_delivery_profile": "live",
+      "fixed_keyframe_interval":true
     },
     {
       "media_type": "video",
@@ -45,7 +45,8 @@
       "width": 640,
       "height": 360,
       "h264_profile": "baseline",
-      "streaming_delivery_profile": "live"
+      "streaming_delivery_profile": "live",
+      "fixed_keyframe_interval":true
     },
     {
       "media_type": "video",
@@ -65,7 +66,8 @@
       "height": 360,
       "h264_profile": "main",
       "h264_bframes": 2,
-      "streaming_delivery_profile": "live"
+      "streaming_delivery_profile": "live",
+      "fixed_keyframe_interval":true
     },
     {
       "media_type": "video",
@@ -85,7 +87,8 @@
       "height": 540,
       "h264_profile": "main",
       "h264_bframes": 2,
-      "streaming_delivery_profile": "live"
+      "streaming_delivery_profile": "live",
+      "fixed_keyframe_interval":true
     },
     {
       "media_type": "video",
@@ -105,7 +108,8 @@
       "height": 540,
       "h264_profile": "main",
       "h264_bframes": 2,
-      "streaming_delivery_profile": "live"
+      "streaming_delivery_profile": "live",
+      "fixed_keyframe_interval":true
     },
     {
       "media_type": "video",
@@ -125,7 +129,8 @@
       "height": 720,
       "h264_profile": "main",
       "h264_bframes": 2,
-      "streaming_delivery_profile": "live"
+      "streaming_delivery_profile": "live",
+      "fixed_keyframe_interval":true
     },
     {
       "media_type": "image",
