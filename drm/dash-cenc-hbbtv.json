@@ -2,7 +2,7 @@
   "account_id": "1305620570001",
   "archive_master" : true,
   "name" : "dash-cenc-hbbtv",
-  "description" : "This will produce 6 dash renditions with cenc",
+  "description" : "This will produce 6 dash renditions with cenc for use with HbbTV",
   "renditions" : [
       {
 		"media_type" : "video",
